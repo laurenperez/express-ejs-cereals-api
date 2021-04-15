@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Frosted flakes",
+    "deliciousness": 8,
+    "mascot": "Tony the Tiger"
+  },
+  {
+    "name": "Apple Jacks",
+    "deliciousness": 10,
+    "mascot": "Cinnamon Stick Guy"
+  },
+  {
+    "name": "Crunchberries",
+    "deliciousness": 2,
+    "mascot": "Cap'n Crunch"
+  },
+  {
+    "name": "Cheerios",
+    "deliciousness": 5,
+    "mascot": "Buzz the Bee"
+  }
+]
